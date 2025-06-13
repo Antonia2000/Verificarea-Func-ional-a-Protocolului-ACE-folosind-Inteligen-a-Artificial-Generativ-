@@ -1,0 +1,2 @@
+# Verificarea-Func-ional-a-Protocolului-ACE-folosind-Inteligen-a-Artificial-Generativ-
+Acest proiect se concentrează pe utilizarea Inteligenței Artificiale Generativă (GenAI) pentru a dezvolta un IP de Verificare (VIP) pentru protocolul Advanced Microcontroller Bus Architecture Advanced Coherency Extensions (AMBA ACE). Protocolul ACE este o componentă importantă în proiectarea modernă a Sistemelor pe chip.
